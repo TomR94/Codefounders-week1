@@ -9,5 +9,8 @@ def funct2(tekst):
     print('De tekst is ' + tekst)
     i = 123
     print('1 = ' + str(i))
+
 funct1()
 funct2('Tom')
+
+print("het is klaar")
